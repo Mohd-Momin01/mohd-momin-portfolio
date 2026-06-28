@@ -1,0 +1,10 @@
+{
+  "name": "Momin.Analyst Portfolio",
+  "description": "Ultra-premium portfolio for Mohd Momin - Data Analyst, featuring SQL, Excel, Power BI, Python, and Business Intelligence showcases.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
